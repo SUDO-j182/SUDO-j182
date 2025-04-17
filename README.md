@@ -1,12 +1,12 @@
-# From Warehousing to Web Development – Learning by Doing
+# From Warehousing to Web Development - Learning by Doing
 
 I’ve spent the last few years working in warehouses and factories, where I learned the value of hard work, problem-solving, and staying consistent under pressure. But I’ve always had a deep interest in computers, websites, and how software works behind the scenes.
 
-Now I’m turning that interest into a career by learning web development the practical way—building real projects, solving real problems, and constantly improving. I work mainly with **HTML, CSS, JavaScript**, and **Git**, and I’ve built things like:
+Now I’m turning that interest into a career by learning web development the practical way, building real projects, solving real problems, and constantly improving. I work mainly with **HTML, CSS, JavaScript**, and **Git**, and I’ve built things like:
 
-- [**Pixel Art Drawing Tool**](https://github.com/SUDO-j182/simple-drawing-tool) – custom grid logic, hover preview, drag-to-paint, and export as PNG  
-- [**Terminal-Style Password Generator**](https://github.com/SUDO-j182/Password-Generator) – random password creation with a styled retro terminal look  
-- [**CV Layout Website**](https://github.com/SUDO-j182/CV-layout) – responsive design built for PDF export and mobile display  
+- [**Pixel Art Drawing Tool**](https://github.com/SUDO-j182/simple-drawing-tool) - custom grid logic, hover preview, drag-to-paint, and export as PNG  
+- [**Password Generator**](https://github.com/SUDO-j182/Password-Generator) - random password creation with a styled retro terminal look  
+- [**CV Layout Website**](https://github.com/SUDO-j182/CV-layout) - responsive design built for PDF export and mobile display  
 - [**Portfolio Website**](https://www.portfolio-os.net) – Modern, sleek layout with semantic structure and custom effects  
 
 I’ve also taken fundamental online courses in **cybersecurity, cloud computing, and AI**, and I’m working through FreeCodeCamp’s **Responsive Web Design** certification.
