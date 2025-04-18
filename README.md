@@ -4,9 +4,9 @@ I’ve spent the last few years working in warehouses and factories, where I lea
 
 Now I’m turning that interest into a career by learning web development the practical way, building real projects, solving real problems, and constantly improving. I work mainly with **HTML, CSS, JavaScript**, and **Git**, and I’ve built things like:
 
-- [**Pixel Art Drawing Tool**](https://github.com/SUDO-j182/simple-drawing-tool) - custom grid logic, hover preview, drag-to-paint, and export as PNG  
-- [**Password Generator**](https://github.com/SUDO-j182/Password-Generator) - random password creation with a styled retro terminal look  
-- [**CV Layout Website**](https://github.com/SUDO-j182/CV-layout) - responsive design built for PDF export and mobile display  
+- [**Pixel Editor**](https://sudo-j182.github.io/pixel-editor/) - custom grid logic, hover preview, drag-to-paint, and export as PNG  
+- [**Password Generator**](https://sudo-j182.github.io/password-generator/) - random password creation with a styled retro terminal look  
+- [**CV Webpage**](https://sudo-j182.github.io/cv-page/) - responsive design built for PDF export and mobile display  
 - [**Portfolio Website**](https://www.portfolio-os.net) – Modern, sleek layout with semantic structure and custom effects  
 
 I’ve also taken fundamental online courses in **cybersecurity, cloud computing, and AI**, and I’m working through FreeCodeCamp’s **Responsive Web Design** certification.
