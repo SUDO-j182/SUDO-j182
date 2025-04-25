@@ -8,6 +8,8 @@ Now I’m turning that interest into a career by learning web development the pr
 - [**Password Generator**](https://sudo-j182.github.io/password-generator/) - random password creation with a styled retro terminal look  
 - [**CV Webpage**](https://sudo-j182.github.io/cv-page/) - responsive design built for PDF export and mobile display  
 - [**Portfolio Website**](https://www.portfolio-os.net) – Modern, sleek layout with semantic structure and custom effects  
+[**Code Editor**](https://sudo-j182.github.io/code-editor/) - A simple browser based code editor that accepts HTML, CSS and JavaScript, includes a console for handling JS and retro inspired design 
+
 
 I’ve also taken fundamental online courses in **cybersecurity, cloud computing, and AI**, and I’m working through FreeCodeCamp’s **Responsive Web Design** certification.
 
