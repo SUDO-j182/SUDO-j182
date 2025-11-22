@@ -40,7 +40,7 @@ Clean code and clear file structure
 
 Step-by-step updates if needed
 
-No over-engineering — just practical solutions
+No over-engineering, just practical solutions
 
 Whether it’s fixing one issue or building a small tool from scratch, I aim to keep the process smooth and predictable.
 
