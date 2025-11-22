@@ -1,24 +1,56 @@
-I build small, reliable web tools and fix front-end issues fast.
-If something on your site isn’t working, loading, or displaying correctly, I specialise in finding the cause and fixing it with clean, simple code.
+👋 Need something fixed or built?
 
-I also create focused, lightweight tools in HTML, CSS, and JavaScript—calculators, generators, UI components, and other small utilities that support your workflow or website.
+I help clients solve small front-end problems and create lightweight custom tools using HTML, CSS, and JavaScript.
 
-What I focus on:
+My repos show the kind of work I do: clean UI updates, bug fixes, responsive layouts, and small tools that solve real, practical problems.
 
-Clean, modern UI updates
+🔧 What I Can Help You With
 
-Debugging layout, styling, and JavaScript issues
+Fixing layout, styling, and UI issues
 
-Performance and responsiveness
+Debugging JavaScript behaviour and errors
 
-Small custom tools built to your exact requirements
+Improving responsiveness and consistency
 
-Clear communication and straightforward explanations
+Cleaning up or modernising older designs
 
-Every project here is built with a consistent approach:
-practical solutions, fast delivery, and code that’s easy to understand and maintain.
+Building small, custom web tools (calculators, generators, converters, etc.)
 
-If you need something fixed or want a small tool built, this is the kind of work I do.
+Everything is built to be clear, maintainable, and easy to integrate into your existing site.
+
+🧩 Projects You’ll Find Here
+
+Mini tools – focused utilities built with simple JS
+
+UI improvements – modernised interfaces and components
+
+Debugging examples – before/after fixes and code clarity
+
+Frontend demos – small, practical showcases of what I can build
+
+These projects exist so you can see the quality of work you’ll receive.
+
+🚀 How I Work
+
+Fast communication
+
+Simple, direct explanations
+
+Clean code and clear file structure
+
+Step-by-step updates if needed
+
+No over-engineering — just practical solutions
+
+Whether it’s fixing one issue or building a small tool from scratch, I aim to keep the process smooth and predictable.
+
+📬 Want to work together?
+
+You can reach me through GitHub Issues or via my Fiverr profile if you’d like a tool built or a bug fixed.
+
+🛠 Tech I Use
+
+HTML • CSS • JavaScript • Git • VS Code
 
 <!---
 SUDO-j182/SUDO-j182 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
