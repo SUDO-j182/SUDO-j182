@@ -46,7 +46,7 @@ Whether it’s fixing one issue or building a small tool from scratch, I aim to 
 
 📬 Want to work together?
 
-You can reach me through GitHub Issues or via my Fiverr profile if you’d like a tool built or a bug fixed.
+You can reach me through GitHub Issues or via my Fiverr profile if you’d like a tool built or a bug fixed - https://www.fiverr.com/sellers/drakulik_dev
 
 🛠 Tech I Use
 
